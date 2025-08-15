@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.venv/
+models/*.joblib
+data/raw/*.csv
+data/processed/*.csv
+.DS_Store
+.pytest_cache/
